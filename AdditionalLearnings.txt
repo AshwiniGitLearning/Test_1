@@ -1,0 +1,9 @@
+But I also want to learn:
+
+Deployment tools:
+1. Github
+2. Vs code
+3. Copado
+4. Ant Migration Tools
+
+Done for today.
